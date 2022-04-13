@@ -13,6 +13,6 @@ Hello..👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=broscr.broscr)](#)
 
 [![BroscR's GitHub stats](https://github-readme-stats.vercel.app/api?username=broscr&count_private=true&theme=radical&include_all_commits=true&show_owner=true&line_height=20&show_icons=true)](https://github.com/broscr?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broscr&layout=compact&count_private=true&theme=radical&include_all_commits=true&show_owner=true)](https://github.com/broscr)
