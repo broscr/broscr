@@ -17,7 +17,5 @@ Hello..👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=broscr.broscr)](#)
 
-<div class="display:flex; width:100%; justify-content:space-between;">
-<img src="https://wakatime.com/share/@f248d9b9-b9af-4c74-bc10-e2f60e39240c/f502c9ee-4e7e-49c3-a92e-236e5494d42f.svg" style="width:49%; margin-right:50px"></img>
-<img src="https://wakatime.com/share/@f248d9b9-b9af-4c74-bc10-e2f60e39240c/26350d4f-12c1-44ad-b6c6-2be083842037.svg" style="width:49%; margin-left:50px"</img>
-</div>
+<img src="https://wakatime.com/share/@f248d9b9-b9af-4c74-bc10-e2f60e39240c/f502c9ee-4e7e-49c3-a92e-236e5494d42f.svg"></img>
+
