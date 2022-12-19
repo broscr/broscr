@@ -2,62 +2,46 @@ Hello..👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=broscr.broscr)](#)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 👨‍💻 Programming and markup languages
+[![Java](https://custom-icon-badges.demolab.com/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![C#](https://custom-icon-badges.demolab.com/badge/-C%20Sharp-000000?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Kotlin](https://custom-icon-badges.demolab.com/badge/-Kotlin-7952B3?logo=kotlin&logoColor=purple)](https://kotlinlang.org/)
+[![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](#)
+[![Html](https://custom-icon-badges.demolab.com/badge/Html-FFFFFF.svg?logo=html&logoColor=white)](#)
+[![Css](https://custom-icon-badges.demolab.com/badge/Css3-025E8C.svg?logo=css3&logoColor=white)](#)
 
 
-### Frontend  
-<div align="center">
-    <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="50" /></a> 
-  <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="50" /></a> 
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="Next.js" height="50" /></a>   
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>   
-</div>
+### 🧰 Frameworks and libraries
+[![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?logo=react&logoColor=white)](https://reactjs.org/)
+[![NextJS](https://custom-icon-badges.demolab.com/badge/-Next.js-FFFFFF?logo=next.js&logoColor=black)](https://nextjs.org/)
+[![NestJS](https://custom-icon-badges.demolab.com/badge/-NestJS-000000?logo=nestjs&logoColor=red)](https://nestjs.com/)
+[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Bootstrap](https://custom-icon-badges.demolab.com/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Wordpress](https://custom-icon-badges.demolab.com/badge/-Wordpress-21759B?logo=wordpress&logoColor=white)](https://reactjs.org/)
 
-</td><td valign="top" width="33%">
+### 🗄️ Databases and cloud hosting
 
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
 
+### 💻 Software and tools
 
-### Backend  
-<div align="center">  
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-     <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="50" /></a>  
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>   
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
-    <a href="https://about.gitlab.com" target="_blank"><img style="margin: 10px" src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-100.svg" alt="GitLab" height="100" /></a> 
-</div>
-
-</td></tr>
-</table>  
+<p>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-FFFFFF.svg?logo=visual-studio&logoColor=purple"></a>
+</p>
 <br/>  
 
 
