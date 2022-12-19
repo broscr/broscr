@@ -18,7 +18,6 @@ Hello..👋
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?logo=react&logoColor=white)](https://reactjs.org/)
 [![NextJS](https://custom-icon-badges.demolab.com/badge/-Next.js-FFFFFF?logo=next.js&logoColor=black)](https://nextjs.org/)
 [![NestJS](https://custom-icon-badges.demolab.com/badge/-NestJS-000000?logo=nestjs&logoColor=red)](https://nestjs.com/)
-[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Bootstrap](https://custom-icon-badges.demolab.com/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Wordpress](https://custom-icon-badges.demolab.com/badge/-Wordpress-21759B?logo=wordpress&logoColor=white)](https://reactjs.org/)
 
