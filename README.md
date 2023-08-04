@@ -1,6 +1,6 @@
 Hello..👋
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=broscr.broscr)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=broscr.broscr)](#) [![wakatime](https://wakatime.com/badge/user/f248d9b9-b9af-4c74-bc10-e2f60e39240c.svg)](https://wakatime.com/@f248d9b9-b9af-4c74-bc10-e2f60e39240c)
 
 ### 👨‍💻 Programming and markup languages
 [![Java](https://custom-icon-badges.demolab.com/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/)
